@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oran Info</string>
+
+    <!-- IDs تاع التجربة من Google. بدّلهم بالـ IDs الحقيقية تاعك من حساب AdMob -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_interstitial_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!-- رابط ملف list.txt (كل سطر رابط فيديو). بدّل USERNAME و REPO بتاعك -->
+    <string name="videos_list_url" translatable="false">https://raw.githubusercontent.com/brahimslimani003-cell/oraninfo/main/videos/list.txt</string>
+
+    <string name="no_videos">ما قدرتش نجيب الفيديوهات. شوف الأنترنت ولا رابط list.txt</string>
+</resources>
